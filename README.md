@@ -1,7 +1,4 @@
 # Aayush Adhikari
-
-![Profile Picture](photo_25_2023-06-12_02-14-26.jpg)
-
 ## Introduction
 
 Greetings! I'm Aayush Adhikari, an enterprising web developer and avid AI enthusiast. With an unwavering passion for cutting-edge technologies, I am deeply engrossed in the realms of machine learning, deep learning, and artificial intelligence. Currently, I am embarking on an exhilarating journey exploring the vast potential of Solana blockchain and honing my expertise in Node.js for creating captivating web experiences.
