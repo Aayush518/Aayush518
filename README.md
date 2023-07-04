@@ -2,7 +2,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/blob/main/assets/banner-header.gif">
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="Aayush Adhikari" /> </p>
 
 <!-- TYPING DATA -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Perú;I'm+21+years+old;Welcome!) 
