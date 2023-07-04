@@ -1,3 +1,5 @@
+I apologize for the confusion. Here's an updated version of the bio with visually pleasing icons and a more engaging layout:
+
 # Aayush Adhikari
 
 <p align="center">
@@ -13,25 +15,23 @@
 
 # Hello, World! 👋
 
-I'm Aayush Adhikari, an enterprising web developer and passionate AI enthusiast. With an unwavering drive for cutting-edge technologies, I dive deep into the realms of machine learning, deep learning, and artificial intelligence. Currently, I am on an exhilarating journey, exploring the immense potential of Solana blockchain and honing my expertise in Node.js to craft captivating web experiences.
+I'm Aayush Adhikari, an enterprising web developer and avid AI enthusiast. With an unwavering passion for cutting-edge technologies, I am deeply engrossed in the realms of machine learning, deep learning, and artificial intelligence. Currently, I am embarking on an exhilarating journey exploring the vast potential of Solana blockchain and honing my expertise in Node.js for creating captivating web experiences.
 
-## Skills and Technologies
+Not confined to coding alone, I unleash my creative prowess through captivating visual designs using Adobe Illustrator and Figma, ensuring that every interface I craft is visually enchanting and seamlessly functional.
 
-✨ Here are some of the skills and technologies that define my repertoire:
+I eagerly welcome intriguing projects and collaborations that challenge the boundaries of innovation. If you have an exciting opportunity or wish to discuss the latest advancements in the field, I invite you to connect with me at adhikariaayush37@gmail.com.
 
-- **Web Development**: <img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/24/000000/css3.png"/> <img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/24/000000/nodejs.png"/>
-- **Machine Learning** and **Deep Learning**: <img src="https://img.icons8.com/color/24/000000/machine-learning.png"/> <img src="https://img.icons8.com/color/24/000000/deep-learning.png"/>
-- **Artificial Intelligence**: <img src="https://img.icons8.com/color/24/000000/artificial-intelligence.png"/>
-- **Adobe Illustrator**: <img src="https://img.icons8.com/color/24/000000/adobe-illustrator.png"/>
-- **Figma**: <img src="https://img.icons8.com/color/24/000000/figma--v1.png"/>
+Let's embark on a captivating journey of technological innovation together! Visit my LinkedIn profile at [LinkedIn](https://www.linkedin.com/in/aayush-adhikari-040143209/) to learn more about my accomplishments and explore potential synergies.
 
-## Let's Connect!
+---
 
-📫 I'm always excited about intriguing projects and collaborations that push the boundaries of innovation. If you have an exciting opportunity or want to discuss the latest advancements in the field, feel free to connect with me via email or LinkedIn.
-
-## Explore My Portfolio
-
-🌐 Visit my [LinkedIn profile](https://www.linkedin.com/in/aayush-adhikari-040143209/) to learn more about my accomplishments and explore potential synergies.
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/web-development.png" alt="Web Development">
+  <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning">
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Artificial Intelligence">
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Adobe Illustrator">
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma">
+</p>
 
 ---
 
