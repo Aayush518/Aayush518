@@ -12,7 +12,7 @@
   
   📚 I am currently studying at [IOE PASCHIMANCHAL CAMPUS](https://ioepas.edu.np/)
   
-  🌱 I am currently in the race **Software Design and Development**
+  🌱 I am currently in the race **FULL STACK WEB DEVELOPMENT AND MACHINE LEARNING**
 
   🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
 
