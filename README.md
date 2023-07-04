@@ -1,4 +1,3 @@
-I apologize for the confusion. Here's an updated version of the bio with visually pleasing icons and a more engaging layout:
 
 # Aayush Adhikari
 
