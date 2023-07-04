@@ -1,6 +1,6 @@
 # Aayush Adhikari
 
-![Profile Picture](/path/to/profile_picture.png)
+![Profile Picture](photo_25_2023-06-12_02-14-26.jpg)
 
 ## Introduction
 
