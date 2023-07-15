@@ -24,9 +24,9 @@ Let's embark on a captivating journey of technological innovation together! Feel
 
 ## Skills and Technologies
 
-- **Web Development**: HTML | CSS | JavaScript | Node.js
+- **Web Development**: HTML | CSS | JavaScript | Node.js | WordPress
 - **Machine Learning** | **Deep Learning** | **Artificial Intelligence**
-- **Adobe Illustrator** | **Figma**
+- **Adobe Illustrator** | **Figma**  | **Photoshop**
 
 ---
 
