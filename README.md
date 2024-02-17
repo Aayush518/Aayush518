@@ -24,7 +24,6 @@ I'm an enterprising Web Developer and avid AI Enthusiast. I'm deeply passionate 
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Aayush518"><img src="https://github-readme-stats.vercel.app/api?username=Aayush518&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aayush518's GitHub stats" /></a>
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush518&show_icons=true&theme=transparent)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush518&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
