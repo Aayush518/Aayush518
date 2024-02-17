@@ -21,9 +21,11 @@ I'm an enterprising Web Developer and avid AI Enthusiast. I'm deeply passionate 
 
 <p align="left"> <a href="https://www.github.com/Aayush518" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Aayush518" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <b>My GitHub Stats</b>
+
 ![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush518&show_icons=true&theme=transparent)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush518&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
+
