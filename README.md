@@ -34,4 +34,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
    <a href="https://github.com/Aayush518github-readme-activity-graph"><img alt="Aayush's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Aayush518&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
- ![](./profile-3d-contrib/profile-green-animate.svg)
+ ![](./profile-3d-contrib/profile-night-green.svg)
