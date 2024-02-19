@@ -35,3 +35,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
  ![](./profile-3d-contrib/profile-night-green.svg)
+
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018dc0e8-9b21-406b-920a-96a8d60e821b/69a2e8c1-8eed-4672-9ba8-98acb311a60e.png" /></a>
