@@ -35,6 +35,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
  ![](./profile-3d-contrib/profile-night-green.svg)
- <hr>
- ![](https://komarev.com/ghpvc/?Aayush518&color=green)
+![](https://komarev.com/ghpvc/?username=Aayush518&abbreviated=true)
  
