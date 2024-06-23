@@ -23,7 +23,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
  <b>My GitHub Stats</b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush518&show_icons=true&theme=radical)
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=Aayush518&theme=omni)](https://git.io/streak-stats)
 
