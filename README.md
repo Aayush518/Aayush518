@@ -103,7 +103,7 @@ class AayushBrain:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aayush518-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aayush518)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayush--adhikari-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-adhikari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayush--adhikari-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush518)
 [![Email](https://img.shields.io/badge/Email-adhikariaayush37@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhikariaayush37@gmail.com)
 
 </div>
