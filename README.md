@@ -1,6 +1,19 @@
+**🚀 Code Sprint Philosophy**  
+
+> *"Theoretical trivia: ❌  /  ‘I’ll code your idea in a language I just Googled’: ✅*  
+> **Let’s duel.** Your tech stack, my caffeine addiction. 🏁✨  
+>  
+> **Terms**:  
+> - I’ll have a *working prototype* before your CI/CD pipeline blinks.  
+> - Ask me anything—I’ll Google it faster than you can say ‘dependency hell’.  
+
+*(Disclaimer: Results may vary based on coffee quality ☕ and Wi-Fi stability 📶.)*  
+
+> Jokes Apart. Let me introduce you to myself. I'm a
+
 **Frontend Engineer | NLP Researcher (Nepali/Myanmar) | Pragmatic Project Lead**  
 
-After 14+ years of exploring programming, design, and teaching—from QBasic at 10 to Java on Nokia devices, Photoshop to LaTeX—I’ve honed in on **three pillars**:  
+After more than a decade of exploring programming, design, and teaching—from QBasic at 10 to Java on Nokia devices, Photoshop to LaTeX—I’ve honed in on **three pillars**:  
 
 ### 1. **Modern Frontend Engineering**  
    - Building sleek, performant UIs with `Svelte`/`React`, `TypeScript`, and `Canvas`.  
