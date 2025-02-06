@@ -1,4 +1,3 @@
-**Aayush Adhikari**  
 **Frontend Engineer | NLP Researcher (Nepali/Myanmar) | Pragmatic Project Lead**  
 
 After 14+ years of exploring programming, design, and teaching—from QBasic at 10 to Java on Nokia devices, Photoshop to LaTeX—I’ve honed in on **three pillars**:  
