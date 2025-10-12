@@ -1,60 +1,70 @@
-**🚀 Code Sprint Philosophy**  
+# Aayush Adhikari
 
-> *"Theoretical trivia: ❌  /  ‘I’ll code your idea in a language I just Googled’: ✅*  
-> **Let’s duel.** Your tech stack, my caffeine addiction. 🏁✨  
->  
-> **Terms**:  
-> - I’ll have a *working prototype* before your CI/CD pipeline blinks.  
-> - Ask me anything—I’ll Google it faster than you can say ‘dependency hell’.  
+**AI Engineer | Full-Stack Developer | Research Fellow**
 
-*(Disclaimer: Results may vary based on coffee quality ☕ and Wi-Fi stability 📶.)*  
-
-> Jokes Apart. Let me introduce you to myself. I'm a
-
-**Frontend Engineer | NLP Researcher (Nepali/Myanmar) | Pragmatic Project Lead**  
-
-After more than a decade of exploring programming, design, and teaching—from QBasic at 10 to Java on Nokia devices, Photoshop to LaTeX—I’ve honed in on **three pillars**:  
-
-### 1. **Modern Frontend Engineering**  
-   - Building sleek, performant UIs with `Svelte`/`React`, `TypeScript`, and `Canvas`.  
-   - Obsessed with: Micro-interactions, edge rendering, and designs that work *offline-first*.  
-
-### 2. **NLP for Under-Resourced Languages**  
-   - Focused on **Nepali & Myanmar (Burmese)**:  
-     - Speech tech (ASR/TTS) for non-Latin scripts.  
-     - Hybrid pipelines (rule-based + ML) to bypass data scarcity.  
-   - *Rejects* “LLMs for everything” — prioritizes lightweight, field-deployable tools.  
-
-### 3. **Project Leadership**  
-   - **Mentor turned strategist**: Filter ideas ruthlessly. Only greenlight projects that:  
-     - Solve *actual* problems (e.g., rural educators, linguists).  
-     - Are maintainable with small teams.  
-   - Shelved 10+ “cool but unsustainable” prototypes in 2023 alone.  
+I architect intelligent systems where AI research meets production reality. My work spans medical AI, multi-agent systems, and data-intensive applications—built to solve real problems, not just proof-of-concepts.
 
 ---
 
-### **Why This Trio?**  
-- **Frontend**: Born from hand-coding HTML/CSS on paper and years of design-tool mastery.  
-- **NLP**: Rooted in teaching logic, linguistic curiosity, and a drive to democratize tech.  
-- **Leadership**: Sharpened by mentoring 200+ students — elder peers included — and shipping tools people *use*.  
+## Who I Am
+
+I'm that rare engineer who taught physics to teenagers before building neural networks—and that journey matters. Six years in classrooms taught me to explain complex ideas simply, debug human confusion as rigorously as code bugs, and design systems people actually want to use.
+
+Now I build at the intersection of **AI research** and **production engineering**:
+
+- 🏥 Contributing to medical AI research and clinical data applications
+- 📊 Engineering data pipelines and analytics platforms  
+- 🎨 Crafting polished, pixel-perfect web experiences
+
+**Technical expertise:**
+```
+AI/ML          → PyTorch, Transformers, Multi-Agent Frameworks, Amazon Bedrock
+Databases      → Neo4j, PostgreSQL, MongoDB, Snowflake, Vector Databases
+Full-Stack     → React, Next.js, TypeScript, Node.js, FastAPI, Flask
+Cloud/DevOps   → Docker, Kubernetes, Azure, CI/CD pipelines
+Specialties    → Knowledge Graphs, NLP, Low-Resource Languages
+```
 
 ---
 
-### **Technical Toolkit**  
-`Svelte` `React` `TypeScript` `Python` `Kaldi` `Praat` `Figma` `Git` `Vite`  
+## What Makes Me Different
+
+**I bridge worlds most engineers don't**  
+From teaching logic gates to high schoolers to implementing HIPAA-compliant medical AI—I speak both human and machine fluently. This makes me effective at research-to-engineering translation, explaining AI to stakeholders, and building tools actual humans can use.
+
+**I finish what I start**  
+Not interested in half-baked demos. I build complete systems: authentication, error handling, monitoring, documentation—the unglamorous stuff that separates toys from tools. 
+
+**I solve problems end-to-end**  
+Need NLP for low-resource languages? I'll collect the dataset, train the model, build the API, and deploy it. Need analytics? I'll design the schema, build the ETL, create the dashboard, and integrate AI insights. No hand-offs, no excuses.
 
 ---
 
-### **Work Ethos**  
-- **“Exploration → Focus”**: Tried everything; now doubling down on *what matters*.  
-- **“No Band-Aid Solutions”**: If it can’t survive a 2 AM outage, don’t build it.  
-- **“Teach to Learn”**: Still run coding workshops — forces clarity in chaos.  
+## Technical Philosophy
 
-📩 **Let’s Build Sustainably**:  
-[GitHub](https://github.com/Aayush518) | [LinkedIn](https://linkedin.com/in/aayush518) | [Email](mailto:adhikariaayush37@gmail.com)  
+**Pragmatic AI:** Not everything needs a transformer. Sometimes rule-based systems, sometimes hybrid approaches, sometimes just good SQL. I choose based on constraints, not hype.
 
----  
+**Production-First:** Research is exciting, but I'm measured by deployed systems. Security, scalability, maintainability—non-negotiable from day one.
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Aayush518&label=Code%20Stalkers&labelColor=%23000000&countColor=%2337d67a)
+**Explainable by Default:** If I can't explain how my model works to a domain expert, I haven't finished building it. Especially true in healthcare and critical systems.
 
+**Code is Communication:** Write for the next developer (usually future me). Clean, documented, testable. No clever tricks that require a PhD to understand.
 
+---
+
+## Let's Build Something
+
+I'm interested in challenging problems where AI research meets real-world constraints—especially in healthcare, knowledge systems, and low-resource language applications.
+
+**Open to:**  
+- AI research collaborations (medical AI, multi-agent systems)
+- Full-stack AI product development  
+- Technical consulting for ML/NLP projects
+
+📧 adhikariaayush37@gmail.com  
+💼 [linkedin.com/in/aayush518](https://linkedin.com/in/aayush518)  
+🔗 [github.com/Aayush518](https://github.com/Aayush518)
+
+---
+
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=Aayush518&label=Visitors&labelColor=%23000000&countColor=%2337d67a)
