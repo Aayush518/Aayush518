@@ -1,6 +1,6 @@
 # Aayush Adhikari
 
-**AI Engineer | Full-Stack Developer | Research Fellow**
+**AI/ML Engineer**
 
 I architect intelligent systems where AI research meets production reality. My work spans medical AI, multi-agent systems, and data-intensive applications—built to solve real problems, not just proof-of-concepts.
 
